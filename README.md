@@ -1,6 +1,6 @@
 # Frontend Mentor - Ping coming soon page
 
-![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
+![127 0 0 1_5500_](https://github.com/user-attachments/assets/b68c7131-a224-4ed8-a800-085bd651239c)
 
 ## Welcome! 👋
 
